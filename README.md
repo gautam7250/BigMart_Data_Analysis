@@ -11,8 +11,8 @@ Using this model, BigMart will try to understand the properties of products and 
 ## Understand the problem
 Q. What could affect the target variabke 'Sasles'?
 
-The time of the week as they are usually busier.
-Higher sales according to the time of the day that is, morning and late evenings.
-Higher sales during the end of the year
-Store size and location
-Items with more shelf space sell more
+* 1. The time of the week as they are usually busier.
+* 2. Higher sales according to the time of the day that is, morning and late evenings.
+* 3. Higher sales during the end of the year
+* 4. Store size and location
+* 5. Items with more shelf space sell more
